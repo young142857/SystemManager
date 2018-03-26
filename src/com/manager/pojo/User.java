@@ -1,9 +1,9 @@
 package com.manager.pojo; 
 /** 
   * @ClassName : User
-  * @Description : 
+  * @Description : 鐢ㄦ埛淇℃伅
   * @Author : yangyang 
-  * @Date : 2018年3月19日 下午2:42:15 
+  * @Date : 2018脛锚3脭脗19脠脮 脧脗脦莽2:42:15 
   * @Version : V1.0
   */
 public class User {
