@@ -1,7 +1,7 @@
 package com.manager.pojo; 
 /** 
   * @ClassName : RedisData
-  * @Description : 
+  * @Description : redis键值对
   * @Author : yangyang 
   * @Date : 2018年3月23日 10:01:30 
   * @Version : V1.0
