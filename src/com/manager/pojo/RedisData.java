@@ -3,7 +3,7 @@ package com.manager.pojo;
   * @ClassName : RedisData
   * @Description : 
   * @Author : yangyang 
-  * @Date : 2018Äê3ÔÂ23ÈÕ ÉÏÎç10:01:30 
+  * @Date : 2018å¹´3æœˆ23æ—¥ 10:01:30 
   * @Version : V1.0
   */
 public class RedisData {
