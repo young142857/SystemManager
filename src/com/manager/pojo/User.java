@@ -3,7 +3,7 @@ package com.manager.pojo;
   * @ClassName : User
   * @Description : 用户信息
   * @Author : yangyang 
-  * @Date : 2018Äê3ÔÂ19ÈÕ ÏÂÎç2:42:15 
+  * @Date : 2018年3月19日 2:42:15 
   * @Version : V1.0
   */
 public class User {
